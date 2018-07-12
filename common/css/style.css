@@ -1,0 +1,18 @@
+
+# p { font-size: 14px; }
+
+.sunday {
+    color: #FF0000;
+}
+.saturday {
+    color: #0000FF;
+}
+.holiday {
+    color: #FF0000;
+}
+
+table {
+    font-size: 22px;
+    border: lpx solid #CCCCCC;
+    border-collapse: collapse;
+    }
